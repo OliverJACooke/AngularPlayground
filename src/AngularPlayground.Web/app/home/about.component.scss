@@ -1,0 +1,50 @@
+﻿.about-container {
+    min-height: 600px;
+    background-color: #2b153c;
+    box-sizing: border-box;
+}
+
+.img-background-color {
+    border-right: white 30px solid;
+    height: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: black;
+    height: 600px;
+}
+
+.portrait-img {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.img-container {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.information {
+    position: relative;
+    color: white;
+    text-align: center;
+    padding: 125px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Impact, Arial-BoldMT !important;
+}
+
+h3 {
+    line-height: 40px;
+    font-family: Impact, Arial-BoldMT !important;
+    font-weight: normal;
+    margin: 4vh 0 2vh;
+}
+
+p {
+    font-size: 18px;
+    font-family: cambria;
+}

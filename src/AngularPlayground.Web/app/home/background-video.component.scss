@@ -1,0 +1,19 @@
+﻿.video-container {
+    height: 100vh;
+    min-height:700px;
+    width: 100%;
+    position:absolute;
+    overflow:hidden;
+}
+
+.media-background {
+    min-height: 100% !important;
+    min-width: 100% ;
+    margin: auto;
+    overflow: hidden;
+    
+    top: -9999px;
+    right: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+}

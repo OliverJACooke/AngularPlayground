@@ -1,0 +1,45 @@
+{
+  "name": "AngularPlayground",
+  "version": "1.0.0",
+  "author": "Oliver Cooke",
+  "private": true,
+  "dependencies": {
+    "@angular/common": "^5.0.2",
+    "@angular/compiler": "^5.0.2",
+    "@angular/core": "^5.0.2",
+    "@angular/forms": "^5.0.2",
+    "@angular/http": "^5.0.2",
+    "@angular/platform-browser": "^5.0.2",
+    "@angular/platform-browser-dynamic": "^5.0.2",
+    "@angular/router": "^5.0.2",
+
+    "angular-in-memory-web-api": "^0.5.1",
+    "systemjs": "^0.20.19",
+    "core-js": "^2.5.1",
+    "rxjs": "^5.5.2",
+    "zone.js": "^0.8.18",
+
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.6.1",
+    "tslint": "^5.8.0",
+    "typings": "^2.1.1",
+
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-bump": "^2.8.0",
+    "gulp-filter": "^5.0.1",
+    "gulp-inject": "^4.3.0",
+    "gulp-jasmine": "^2.4.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-tslint": "^8.1.2",
+    "gulp-typescript": "^3.2.3",
+    "gulp-typings": "^2.0.4",
+    "gulp-util": "^3.0.8",
+    "yargs": "^10.0.3"
+  }
+}

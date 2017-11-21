@@ -1,0 +1,69 @@
+﻿.section-container {
+    position: relative;
+}
+
+.mid-align {
+    padding: 22vh 0 0;
+}
+
+.slogan-container {
+    text-align: center;
+    letter-spacing: 10px;
+
+    h1 {
+        font-family: Impact, Arial;
+        line-height: 45px;
+        color: white;
+        text-shadow: 0 2px 2px #000000;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .slogan-container {
+
+        h1 {
+            line-height: 25px;
+            font-size: 18px;
+        }
+    }
+
+    button {
+        font-size: 14px !important;
+        padding: 10px 20px;
+    }
+}
+
+button {
+    background-color: #2B153C;
+    border: none;
+    border-bottom: 8px solid #190c23;
+    border-radius: 5px;
+    color: white !important;
+    display: inline-block;
+    font-size: 20px !important;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    font-family: Impact, Arial !important;
+}
+
+
+button:hover {
+    margin-top: 6px;
+    border-bottom: 2px solid #190c23;
+}
+
+button:active {
+    opacity: .5;
+}
+
+.header-button {
+    text-align: center;
+    padding-top: 25px;
+    box-sizing: border-box;
+}
+
+.push {
+    height: 100vh;
+}

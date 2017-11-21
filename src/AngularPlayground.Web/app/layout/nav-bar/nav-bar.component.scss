@@ -1,0 +1,32 @@
+﻿@import "colours";
+
+.custom-nav {
+    background-color: #111;
+    opacity: .8;
+}
+
+.image-container {
+    height: 100%;
+    width: 100px;
+}
+
+.navbar-toggle {
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    font-size: 20px;
+    letter-spacing: 5px;
+    font-family: Impact, Arial, Helvetica, sans-serif;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+a:hover {
+    color: black;
+}
